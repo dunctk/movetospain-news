@@ -1,4 +1,4 @@
 # movetospain-news
-Spanish news in English for people living in or moving to Spain
+Spanish news in English for people living in or who want to [move to Spain](https://movetospain.es).
 
-Data from (NewsCatcher API)[https://newscatcherapi.com/]
+Data from [NewsCatcher API](https://newscatcherapi.com/)
